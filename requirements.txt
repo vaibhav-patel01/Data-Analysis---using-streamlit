@@ -1,5 +1,5 @@
 pandas
 plotly-express
 plotly
-streamlit
+streamlit>=1.40.0
 matplotlib
